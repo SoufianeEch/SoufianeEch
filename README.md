@@ -67,7 +67,6 @@
   
   **Crafting code and having fun – one project at a time! 🚀**
   
-  ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=SoufianeEch.SoufianeEch)
 </div>
 
 <div align="center">
