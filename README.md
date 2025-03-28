@@ -1,5 +1,8 @@
-<img width="250" align="left" src="https://giffiles.alphacoders.com/790/7908.gif#gh-light-mode-only">
-<img style="width: 200px;" align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b47ae333-6120-4f76-a614-ffad39b897ee/dbciwf4-c68941de-7a4b-47f7-94d7-1a93bae30392.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0N2FlMzMzLTYxMjAtNGY3Ni1hNjE0LWZmYWQzOWI4OTdlZVwvZGJjaXdmNC1jNjg5NDFkZS03YTRiLTQ3ZjctOTRkNy0xYTkzYmFlMzAzOTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._8cEpFPfeCCkzjPb9RwzWBoHVGu-AH6c900gl9y1AqQ#gh-dark-mode-only">
+<picture>
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b47ae333-6120-4f76-a614-ffad39b897ee/dbciwf4-c68941de-7a4b-47f7-94d7-1a93bae30392.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0N2FlMzMzLTYxMjAtNGY3Ni1hNjE0LWZmYWQzOWI4OTdlZVwvZGJjaXdmNC1jNjg5NDFkZS03YTRiLTQ3ZjctOTRkNy0xYTkzYmFlMzAzOTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._8cEpFPfeCCkzjPb9RwzWBoHVGu-AH6c900gl9y1AqQ"> -->
+  <source media="(prefers-color-scheme: light)" srcset="">
+  <img width="250" align="left" src="https://i.gifer.com/MXfm.gif">
+</picture>
 
 ### Hey! 👾
 
@@ -9,7 +12,7 @@
 
 🔥 I love building cool things and bringing them to life. Currently improving my **programming skills** for both **front-end** and **back-end** development.
 
-🛠️ I’m experienced with `Python`, `JavaScript`, `HTML`, and `CSS`.
+🛠️ I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`.
 
 ---
 
@@ -20,15 +23,16 @@ I started my journey in tech with a focus on **Mathematics** and **Engineering**
 
 #### 🌀 Projects
 
-| **JavaScript**, **HTML**, **CSS**                                                                                                                                         | **Python**                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                   
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------- |
-| • [Search for a Pokemon](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) - Simple search page of pokemons characters. <br> •[Calculator App](https://github.com/SoufianeEch/Calculator/tree/main/calculator) - Simple Web Calculator | • [Gravity simulation](#) - simulating planetary orbits and gravity.|
+| **JavaScript**, **HTML**, **CSS** | **Python** |
+|-----------------------------------|------------|
+| • [Search for a Pokemon](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) - Simple search page of pokemons characters.| • [Gravity simulation](https://github.com/SoufianeEch) - simulating planetary orbits and gravity. |
+| • [Calculator App](https://github.com/SoufianeEch/Calculator/tree/main/calculator) - Simple Web Calculator | |
 
 #### 🛠️ What am I working on?
 
-| **Category**      | **Description** |
-| ----------------- | --------------- |
-| **Coming soon**   |                 |
+| **Category** | **Description** |
+|--------------|-----------------|
+| **Coming soon** | |
 
 ---
 
@@ -49,9 +53,8 @@ I started my journey in tech with a focus on **Mathematics** and **Engineering**
 
 📫 **Let's Connect!**
 
-[![Email](https://img.shields.io/badge/Email-DFDFDF?style=flat-square&logo=gmail&logoColor=red)](soufiane.ech.chouia@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-DFDFDF?style=flat-square&logo=gmail&logoColor=red)](mailto:soufiane.ech.chouia@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6600?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/SoufianeEch)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) -->
 
 ---
 
