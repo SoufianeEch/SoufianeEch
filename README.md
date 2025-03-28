@@ -1,8 +1,5 @@
-<picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b47ae333-6120-4f76-a614-ffad39b897ee/dbciwf4-c68941de-7a4b-47f7-94d7-1a93bae30392.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0N2FlMzMzLTYxMjAtNGY3Ni1hNjE0LWZmYWQzOWI4OTdlZVwvZGJjaXdmNC1jNjg5NDFkZS03YTRiLTQ3ZjctOTRkNy0xYTkzYmFlMzAzOTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._8cEpFPfeCCkzjPb9RwzWBoHVGu-AH6c900gl9y1AqQ"> -->
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img width="250" align="left" src="https://i.gifer.com/MXfm.gif">
-</picture>
+<img style="width: 250px;" align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b47ae333-6120-4f76-a614-ffad39b897ee/dbciwf4-c68941de-7a4b-47f7-94d7-1a93bae30392.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0N2FlMzMzLTYxMjAtNGY3Ni1hNjE0LWZmYWQzOWI4OTdlZVwvZGJjaXdmNC1jNjg5NDFkZS03YTRiLTQ3ZjctOTRkNy0xYTkzYmFlMzAzOTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._8cEpFPfeCCkzjPb9RwzWBoHVGu-AH6c900gl9y1AqQ#gh-dark-mode-only">
+  <!-- <img width="250" align="left" src="https://i.gifer.com/MXfm.gif"> -->
 
 ### Hey! 👾
 
