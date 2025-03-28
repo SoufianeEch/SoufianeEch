@@ -14,7 +14,7 @@
 ---
 
 #### ⚡ Stats
-![Profile Views](https://komarev.com/ghpvc/?username=SoufianeEch&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=SoufianeEch&color=blue)
 
 I started my journey in tech with a focus on **Mathematics** and **Engineering** and am working to expand my full-stack skills.
 
