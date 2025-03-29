@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  **Crafting code and having fun – one project at a time! 🚀**
+  **Code Crafter**
   
 </div>
 
