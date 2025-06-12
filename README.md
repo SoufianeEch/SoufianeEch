@@ -35,10 +35,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-21A366?style=flat&logo=microsoft-office&logoColor=white)
 
-
->### 🔧 Fun Projects I've Crafted
-
-### 🗂️ Projects Showcase
+>### 🗂️ Projects Showcase
 
 | 🐍 Python              | 💻 C                      |🌐 Web Dev               | 🌙 Lua                  |
 |------------------------|---------------------------|-------------------------|---------------------------|
