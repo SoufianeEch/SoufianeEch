@@ -38,13 +38,15 @@
 
 ### 🗂️ Projects Showcase
 
-| 🐍 Python              | 💻 C                      | 🌐 Web Dev               | 🌙 Lua                   |
-|------------------------|--------------------------|--------------------------|--------------------------|
-| **Pokemon Explorer**   | **Example C Project**     | **Portfolio Site**       | **Lua Game Script**      |
-| [🔗 GitHub](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
-| **Example Project**    | *(Add more)*              | **Frontend Mini App**    | **Neovim Config**        |
-| [🔗 Coming Soon](https://github.com/SoufianeEch) | *(Add more)*              | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
+| 🐍 Python              | 💻 C                      |
+|------------------------|---------------------------|
+| ASCII art              | Calculator                |
+| [🔗 GitHub](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
 
+|🌐 Web Dev               | 🌙 Lua                    |
+|--------------------------|--------------------------|
+| **Pokemon search**       | **Lua Game Script**      |
+| [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
 
 >### 🖧 My Coding Journey
 
