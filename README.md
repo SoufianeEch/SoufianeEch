@@ -42,8 +42,7 @@
 
 | 🐍 Python              | 💻 C                      |🌐 Web Dev               | 🌙 Lua                    |
 |------------------------|---------------------------|-------------------------|---------------------------|
-| ASCII art              | Calculator                | **Pokemon search**      | **Lua Game Script**       |
-| [🔗 GitHub](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
+| [🔗 ASCII art](https://github.com/SoufianeEch/ascii-art/) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Github](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
 
 >### 🖧 My Coding Journey
 
