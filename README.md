@@ -40,9 +40,9 @@
 
 ### 🗂️ Projects Showcase
 
-| 🐍 Python              | 💻 C                      |🌐 Web Dev               | 🌙 Lua                    |
+| 🐍 Python              | 💻 C                      |🌐 Web Dev               | 🌙 Lua                  |
 |------------------------|---------------------------|-------------------------|---------------------------|
-| [🔗 ASCII art](https://github.com/SoufianeEch/ascii-art/) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Github](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
+| [🔗 ASCII art](https://github.com/SoufianeEch/ascii-art/) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Pokemon Search](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
 
 >### 🖧 My Coding Journey
 
