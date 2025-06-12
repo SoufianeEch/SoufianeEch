@@ -21,7 +21,7 @@
 ![Html](https://img.shields.io/badge/Html-fc5e03?style=plastic&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/Css-240278?style=plastic&logo=csswizardry&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind-00FFFF?style=plastic&logo=tailwindcss&logoColor=black)
-![javascript](https://img.shields.io/badge/Javascript-916211?style=plastic&logo=javascript&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-yellow?style=plastic&logo=javascript&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/NodeJs-darkgreen?style=plastic&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-red?style=plastic&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/-180840?style=plastic&logo=c&logoColor=white)
