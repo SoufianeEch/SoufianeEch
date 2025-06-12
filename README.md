@@ -43,11 +43,11 @@
 
 >### 🖧 My Coding Journey
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianeEch&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="400"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=radical&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=radical&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=radical&hide_border=true&count_private=true" width="400"/>
 
 >### 💡 What I'm Up To
 
