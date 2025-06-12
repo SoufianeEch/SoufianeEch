@@ -7,8 +7,8 @@
 
 ### 🖧 I'm **Soufiane**
 ```
-├─▣  A passionate developer with a focus on **Math and Applications**.  
-├─▣  I love building cool things and bringing them to life. Currently improving my **programming skills** for both **front-end** and **back-end** development.  
+├─▣  A passionate developer with a focus on `Math and Applications`.  
+├─▣  I love building cool things and bringing them to life. Currently improving my `programming skills` for both `ront-end` and `back-end` development.  
 ├─▣  I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`.
 ```
 
@@ -17,13 +17,15 @@
 
 
 >### 🖥️ Languages I Speak
-![Python](https://img.shields.io/badge/Python-180840?styleplastic&logo=python&logoColor=white)
-![Html](https://img.shields.io/badge/Html-fc5e03?styleplastic&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/Css-240278?styleplastic&logo=csswizardry&logoColor=white)
-![javascript](https://img.shields.io/badge/Javascript-916211?styleplastic&logo=javascript&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/NodeJs-darkgreen?styleplastic&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?styleplastic&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/-180840?styleplastic&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-180840?style=plastic&logo=python&logoColor=white)
+![Html](https://img.shields.io/badge/Html-fc5e03?style=plastic&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/Css-240278?style=plastic&logo=csswizardry&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-00FFFF?style=plastic&logo=tailwindcss&logoColor=black)
+![javascript](https://img.shields.io/badge/Javascript-916211?style=plastic&logo=javascript&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/NodeJs-darkgreen?style=plastic&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=plastic&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/-180840?style=plastic&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-blue?style=plastic&logo=Lua&logoColor=white)
 
 >### 🧰 Tools I Use
 
@@ -38,15 +40,10 @@
 
 ### 🗂️ Projects Showcase
 
-| 🐍 Python              | 💻 C                      |
-|------------------------|---------------------------|
-| ASCII art              | Calculator                |
-| [🔗 GitHub](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
-
-|🌐 Web Dev               | 🌙 Lua                    |
-|--------------------------|--------------------------|
-| **Pokemon search**       | **Lua Game Script**      |
-| [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
+| 🐍 Python              | 💻 C                      |🌐 Web Dev               | 🌙 Lua                    |
+|------------------------|---------------------------|-------------------------|---------------------------|
+| ASCII art              | Calculator                | **Pokemon search**      | **Lua Game Script**       |
+| [🔗 GitHub](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
 
 >### 🖧 My Coding Journey
 
