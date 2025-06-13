@@ -8,7 +8,7 @@
 ### 🖧 I'm **Soufiane**
 ```
 ├─▣  A passionate developer with a focus on `Math and Applications`.  
-├─▣  I love building cool things and bringing them to life. Currently improving my `programming skills` for both `ront-end` and `back-end` development.  
+├─▣  I love turning  my ideas into reality,
 ├─▣  I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`.
 ```
 
