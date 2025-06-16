@@ -2,11 +2,7 @@
 
 <div align="left">
 
-<!--
 <img src="https://raw.githubusercontent.com/SoufianeEch/SoufianeEch/refs/heads/main/star.gif" alt="Coding Animation" width="250" align="right">
--->
-
-<img src="https://raw.githubusercontent.com/SoufianeEch/SoufianeEch/refs/heads/main/Donut.gif" alt="Coding Animation" width="250" align="right">
 
 
 ### 🖧 I'm **Soufiane**
