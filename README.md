@@ -2,30 +2,29 @@
 
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/SoufianeEch/SoufianeEch/refs/heads/main/star.gif" alt="Coding Animation" width="250" align="right">
+<!-- <img src="https://raw.githubusercontent.com/SoufianeEch/SoufianeEch/refs/heads/main/star.gif" alt="Coding Animation" width="250" align="right"> -->
 
 
 ### 🖧 I'm **Soufiane**
-```
 ├─▣  A passionate developer with a focus on `Math and Applications`.  
 ├─▣  I love turning  my ideas into reality,
 ├─▣  I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`.
-```
 
 
 ![](https://komarev.com/ghpvc/?username=SoufianeEch&color=blue&theme=flat)
 
 
 >### 🖥️ Languages I Speak
-![Python](https://img.shields.io/badge/Python-180840?style=plastic&logo=python&logoColor=white)
-![Html](https://img.shields.io/badge/Html-fc5e03?style=plastic&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/Css-240278?style=plastic&logo=csswizardry&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-00FFFF?style=plastic&logo=tailwindcss&logoColor=black)
-![javascript](https://img.shields.io/badge/Javascript-yellow?style=plastic&logo=javascript&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/NodeJs-darkgreen?style=plastic&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?style=plastic&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/-180840?style=plastic&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-blue?style=plastic&logo=Lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-180840?style=default&logo=python&logoColor=white)
+![Html](https://img.shields.io/badge/Html-fc5e03?style=default&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/Css-240278?style=default&logo=csswizardry&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-00FFFF?style=default&logo=tailwindcss&logoColor=black)
+![javascript](https://img.shields.io/badge/Javascript-yellow?style=default&logo=javascript&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/NodeJs-darkgreen?style=default&logo=nodedotjs&logoColor=white)
+![react](https://img.shields.io/badge/react-blue?style=default&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=default&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/-180840?style=default&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-blue?style=default&logo=Lua&logoColor=white)
 
 >### 🧰 Tools I Use
 
