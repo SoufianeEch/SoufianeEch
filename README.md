@@ -1,46 +1,47 @@
->### 👋 Hey!
+## ✦ Hey!
 
-<div align="left">
+<div align="left" >
 
 <!-- <img src="https://raw.githubusercontent.com/SoufianeEch/SoufianeEch/refs/heads/main/star.gif" alt="Coding Animation" width="250" align="right"> -->
 
+## ▶ I'm **Soufiane**
 
-### 🖧 I'm **Soufiane**
-├─▣  A passionate developer with a focus on `Math and Applications`.  
-├─▣  I love turning  my ideas into reality,
-├─▣  I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`.
+✦ A passionate developer currently studying `Math and Applications`.  
+✦ I love turning my ideas into reality. <br>
+✦ I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`.
 
+</div>
 
-![](https://komarev.com/ghpvc/?username=SoufianeEch&color=blue&theme=flat)
+![](https://komarev.com/ghpvc/?username=SoufianeEch&color=blue&theme=for-the-badge)
 
+## ▶ **Languages I Speak**
 
->### 🖥️ Languages I Speak
-![Python](https://img.shields.io/badge/Python-180840?style=default&logo=python&logoColor=white)
-![Html](https://img.shields.io/badge/Html-fc5e03?style=default&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/Css-240278?style=default&logo=csswizardry&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-00FFFF?style=default&logo=tailwindcss&logoColor=black)
-![javascript](https://img.shields.io/badge/Javascript-yellow?style=default&logo=javascript&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/NodeJs-darkgreen?style=default&logo=nodedotjs&logoColor=white)
-![react](https://img.shields.io/badge/react-blue?style=default&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?style=default&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/-180840?style=default&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-blue?style=default&logo=Lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=csswizardry&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua&logoColor=white)
 
->### 🧰 Tools I Use
+## ▶ 🛠︎ **Tools I Use**
 
-![VSCode](https://img.shields.io/badge/VS%20-Code-blue.svg?logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-E57924?style=flat&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-21A366?style=flat&logo=microsoft-office&logoColor=white)
+<!-- ![VSCode](https://img.shields.io/badge/VS%20-Code-white.svg?logo=visual-studio-code) -->
+![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-white?style=for-the-badge&logo=blender&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=black)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-white?style=for-the-badge&logo=microsoft-office&logoColor=black)
 
->### 🗂️ Projects Showcase
+## ▶ 🗁 **Projects Showcase**
 
-|  Python              |  C                      | Web Dev               | Lua                  |
-|------------------------|---------------------------|-------------------------|---------------------------|
+| Python                                                    | C                                                | Web Dev                                                                                       | Lua                                              |
+| --------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [🔗 ASCII art](https://github.com/SoufianeEch/ascii-art/) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Pokemon Search](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
 
->### 🖧 My Coding Journey
+## ▶ 🖧 **My Coding Journey**
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="400"/>
 
@@ -48,17 +49,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=radical&hide_border=true&count_private=true" width="400"/>
 
->### 💡 What I'm Up To
+## ▶ 💡 **What I'm Up To**
 
-├─▣ **Learning** and growing every single day.  
-├─▣ **Creating** awesome projects.
+✦ **Learning** and growing every single day.  
+✦ **Creating** awesome projects.
 
 ---
 
-### ✉️ Let's Connect!
+## ▶ ✉️ **Let's Connect!**
 
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=flat&logo=gmail&logoColor=white)](mailto:soufiane.ech.chouia@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Work-181717?style=flat&logo=github&logoColor=white)](https://github.com/SoufianeEch)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soufiane.ech.chouia@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoufianeEch)
+
 ---
 
 `@SoufianeEch`
