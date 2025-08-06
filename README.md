@@ -30,10 +30,10 @@
 ## ▶ 🛠︎ **Tools I Use**
 
 <!-- ![VSCode](https://img.shields.io/badge/VS%20-Code-white.svg?logo=visual-studio-code) -->
-![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-white?style=for-the-badge&logo=blender&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=black)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-white?style=for-the-badge&logo=microsoft-office&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-fafafa?style=for-the-badge&logo=linux&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-fafafa?style=for-the-badge&logo=blender&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-fafafa?style=for-the-badge&logo=figma&logoColor=black)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-fafafa?style=for-the-badge&logo=microsoft-office&logoColor=black)
 
 ## ▶ 🗁 **Projects Showcase**
 
