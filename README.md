@@ -43,11 +43,11 @@
 
 ## ⌥ **My Coding Journey**
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&ring=008000&fire=00FF00&currStreakLabel=006400" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=006400&icon_color=008000&text_color=333333&bg_color=ffffff" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=radical&hide_border=true&count_private=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=default&hide_border=true&count_private=true&title_color=006400&text_color=333333&bg_color=ffffff" width="400"/>
 
 ## ⌥ **What I'm Up To**
 
