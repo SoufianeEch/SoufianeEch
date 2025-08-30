@@ -1,14 +1,14 @@
-## ✦ Hey!
+<!-- ## ✦ Hey! -->
 
 <div align="left" >
 
-<!-- <img src="https://raw.githubusercontent.com/SoufianeEch/SoufianeEch/refs/heads/main/star.gif" alt="Coding Animation" width="250" align="right"> -->
+<!-- <img src="https://raw.githubusercontent.com/SoufianeEch/SoufianeEch/refs/heads/main/star.gif" alt="Coding Animation" width="250" align="right"> 
 
 ## ⌥ I'm **Soufiane**
 
 ✦ A passionate developer currently studying `Math and Applications`.  
 ✦ Bringing ideas to life.<br>
-<!-- ✦ I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`. -->
+✦ I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`. -->
 
 </div>
 
@@ -44,18 +44,17 @@
 -->
 
 ## ⌥ **My Coding Journey**
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&ring=008000&fire=00FF00&currStreakLabel=006400" width="425" />
+<img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=006400&icon_color=008000&text_color=333333&bg_color=ffffff"  width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=default&hide_border=true&count_private=true&title_color=006400&text_color=333333&bg_color=ffffff" height="200"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&ring=008000&fire=00FF00&currStreakLabel=006400" width="400"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=006400&icon_color=008000&text_color=333333&bg_color=ffffff" width="400"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=default&hide_border=true&count_private=true&title_color=006400&text_color=333333&bg_color=ffffff" width="400"/>
-
-## ⌥ **What I'm Up To**
+<!-- ## ⌥ **What I'm Up To**
 
 ✦ **Increasing** my learning curve every week.  
 ✦ **Building** awesome projects.
-
+-->
 ---
 
 ## ⌥ **Let's Connect!**
