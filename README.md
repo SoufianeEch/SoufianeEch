@@ -7,25 +7,25 @@
 ## ⌥ I'm **Soufiane**
 
 ✦ A passionate developer currently studying `Math and Applications`.  
-✦ I love turning my ideas into reality. <br>
-✦ I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`.
+✦Bringing ideas to life.<br>
+<!-- ✦ I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`. -->
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=SoufianeEch&color=blue&theme=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SoufianeEch&color=blue&theme=for-the-badge&style=for-the-badge)
 
 ## ⌥ **Languages I Speak**
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=csswizardry&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![react](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=Lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white)
+![Html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/Css-red?style=for-the-badge&logo=csswizardry&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-red?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/NodeJs-red?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![react](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/-red?style=for-the-badge&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-red?style=for-the-badge&logo=Lua&logoColor=white)
 
 ## ⌥ **Tools I Use**
 
@@ -35,11 +35,13 @@
 ![Figma](https://img.shields.io/badge/Figma-fafafa?style=for-the-badge&logo=figma&logoColor=black)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-fafafa?style=for-the-badge&logo=microsoft-office&logoColor=black)
 
+<!--
 ## ⌥ **Projects Showcase**
 
 | Python                                                    | C                                                | Web Dev                                                                                       | Lua                                              |
 | --------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [🔗 ASCII art](https://github.com/SoufianeEch/ascii-art/) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Pokemon Search](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
+-->
 
 ## ⌥ **My Coding Journey**
 
