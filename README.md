@@ -55,13 +55,10 @@
 ✦ **Increasing** my learning curve every week.  
 ✦ **Building** awesome projects.
 -->
----
 
 ## ⌥ **Let's Connect!**
 
 [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soufiane.ech.chouia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoufianeEch)
-
----
 
 `@SoufianeEch`
