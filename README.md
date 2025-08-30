@@ -7,7 +7,7 @@
 ## ⌥ I'm **Soufiane**
 
 ✦ A passionate developer currently studying `Math and Applications`.  
-✦Bringing ideas to life.<br>
+✦ Bringing ideas to life.<br>
 <!-- ✦ I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`. -->
 
 </div>
