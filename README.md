@@ -14,7 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SoufianeEch&color=blue&theme=for-the-badge&style=for-the-badge)
 
-## ⌥ **Languages I Speak**
+## **Languages I Speak**
 
 ![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white)
 ![Html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -27,7 +27,7 @@
 ![C](https://img.shields.io/badge/-red?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-red?style=for-the-badge&logo=Lua&logoColor=white)
 
-## ⌥ **Tools I Use**
+## **Tools I Use**
 
 <!-- ![VSCode](https://img.shields.io/badge/VS%20-Code-white.svg?logo=visual-studio-code) -->
 ![Linux](https://img.shields.io/badge/Linux-fafafa?style=for-the-badge&logo=linux&logoColor=black)
@@ -43,7 +43,7 @@
 | [🔗 ASCII art](https://github.com/SoufianeEch/ascii-art/) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Pokemon Search](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
 -->
 
-## ⌥ **My Coding Journey**
+## **Coding Journey**
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&ring=008000&fire=00FF00&currStreakLabel=006400" width="425" />
 <img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=006400&icon_color=008000&text_color=333333&bg_color=ffffff"  width="400"/>
@@ -56,7 +56,7 @@
 ✦ **Building** awesome projects.
 -->
 
-## ⌥ **Let's Connect!**
+## **Let's Connect!**
 
 [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soufiane.ech.chouia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoufianeEch)
