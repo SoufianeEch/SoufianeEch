@@ -16,18 +16,18 @@
 
 ## **Languages I Speak**
 
-![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white)
-![Html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/Css-red?style=for-the-badge&logo=csswizardry&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-red?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/NodeJs-red?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![react](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/-red?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-red?style=for-the-badge&logo=Lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-red?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=black)
+![Html](https://img.shields.io/badge/Html-0EA5E9?style=for-the-badge&logo=HTML5&logoColor=black)
+![CSS](https://img.shields.io/badge/Css-0EA5E9?style=for-the-badge&logo=csswizardry&logoColor=black)
+![Tailwind](https://img.shields.io/badge/tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![javascript](https://img.shields.io/badge/Javascript-0EA5E9?style=for-the-badge&logo=javascript&logoColor=black)
+![nodedotjs](https://img.shields.io/badge/NodeJs-0EA5E9?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![react](https://img.shields.io/badge/react-0EA5E9?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-0EA5E9?style=for-the-badge&logo=git&logoColor=black)
+![C](https://img.shields.io/badge/-0EA5E9?style=for-the-badge&logo=c&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-0EA5E9?style=for-the-badge&logo=Lua&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-0EA5E9?style=for-the-badge&logo=next.js&logoColor=black)
 
 ## **Tools I Use**
 
