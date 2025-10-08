@@ -48,7 +48,7 @@
 ## **Coding Journey**
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&ring=008000&fire=00FF00&currStreakLabel=006400" width="350" />
-<img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=006400&icon_color=008000&text_color=333333&bg_color=ffffff"  width="330"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=006400&icon_color=008000&text_color=333333&bg_color=ffffff"  width="330"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=default&hide_border=true&count_private=true&title_color=006400&text_color=333333&bg_color=ffffff" width="250"/>
 </div>
 
