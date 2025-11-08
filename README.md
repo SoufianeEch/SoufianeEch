@@ -35,7 +35,7 @@
 ![Linux](https://img.shields.io/badge/Linux-fafafa?style=for-the-badge&logo=linux&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-fafafa?style=for-the-badge&logo=blender&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-fafafa?style=for-the-badge&logo=figma&logoColor=black)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-fafafa?style=for-the-badge&logo=microsoft-office&logoColor=black)
+<!-- ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-fafafa?style=for-the-badge&logo=microsoft-office&logoColor=black) -->
 
 <!--
 ## ⌥ **Projects Showcase**
