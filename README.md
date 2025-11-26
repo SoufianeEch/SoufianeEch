@@ -1,7 +1,5 @@
 <!-- ## ✦ Hey! -->
 
-<div align="left" >
-
 <!-- <img src="https://raw.githubusercontent.com/SoufianeEch/SoufianeEch/refs/heads/main/star.gif" alt="Coding Animation" width="250" align="right"> 
 
 ## ⌥ I'm **Soufiane**
@@ -10,6 +8,7 @@
 ✦ Bringing ideas to life.<br>
 ✦ I'm experienced with `Python`, `JavaScript`, `HTML`, and `CSS`. -->
 
+<!--
 </div>
 
 ![](https://komarev.com/ghpvc/?username=SoufianeEch&color=blue&theme=for-the-badge&style=for-the-badge)
@@ -31,13 +30,13 @@
 
 ## **Tools I Use**
 
-<!-- ![VSCode](https://img.shields.io/badge/VS%20-Code-white.svg?logo=visual-studio-code) -->
+<!-- ![VSCode](https://img.shields.io/badge/VS%20-Code-white.svg?logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-fafafa?style=for-the-badge&logo=linux&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-fafafa?style=for-the-badge&logo=blender&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-fafafa?style=for-the-badge&logo=figma&logoColor=black)
-<!-- ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-fafafa?style=for-the-badge&logo=microsoft-office&logoColor=black) -->
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-fafafa?style=for-the-badge&logo=microsoft-office&logoColor=black)
 
-<!--
+
 ## ⌥ **Projects Showcase**
 
 | Python                                                    | C                                                | Web Dev                                                                                       | Lua                                              |
