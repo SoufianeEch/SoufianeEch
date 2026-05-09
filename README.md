@@ -44,10 +44,11 @@
 | [🔗 ASCII art](https://github.com/SoufianeEch/ascii-art/) | [🔗 Coming Soon](https://github.com/SoufianeEch) | [🔗 Pokemon Search](https://github.com/SoufianeEch/pokemonSearch/tree/main/pokemon-seach-img) | [🔗 Coming Soon](https://github.com/SoufianeEch) |
 -->
 
-## **Coding Journey**
+Journey
+---
 <div>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=006400&icon_color=008000&text_color=333333&bg_color=ffffff"  width="330"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=default&hide_border=true&count_private=true&title_color=006400&text_color=333333&bg_color=ffffff" width="250"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SoufianeEch&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=006400&icon_color=008000&text_color=333333&bg_color=ffffff"  width="330"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeEch&layout=compact&theme=default&hide_border=true&count_private=true&title_color=006400&text_color=333333&bg_color=ffffff" width="250"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SoufianeEch&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true&ring=008000&fire=00FF00&currStreakLabel=006400" width="350" />
 </div>
 
@@ -57,9 +58,9 @@
 ✦ **Building** awesome projects.
 -->
 
-## **Let's Connect!**
+Connect
+---
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?&logo=gmail&logoColor=white)](mailto:sooufiaanee@gmail.com)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoufianeEch)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sooufiaanee@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoufianeEch)
-
-`@SoufianeEch`
+`@SoufianeEch`  -->
